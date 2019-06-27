@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Rotation" section_id="11e3ddcb1b0afb40c7011fc58d4bcb6a" sys_domain="774190f01f1310005a3637b8ec8b70ef" table="x_trme_augmented_r_ar_workflow" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rotation_x</element>
+            <position>0</position>
+            <sys_created_by>AMKatulak</sys_created_by>
+            <sys_created_on>2019-06-19 14:41:12</sys_created_on>
+            <sys_id>6de3110f1b0afb40c7011fc58d4bcb5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Rotation" display_value="Rotation" name="x_trme_augmented_r_ar_workflow" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">11e3ddcb1b0afb40c7011fc58d4bcb6a</sys_ui_section>
+            <sys_updated_by>AMKatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 14:41:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rotation_y</element>
+            <position>1</position>
+            <sys_created_by>AMKatulak</sys_created_by>
+            <sys_created_on>2019-06-19 14:41:12</sys_created_on>
+            <sys_id>ede3110f1b0afb40c7011fc58d4bcb5b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Rotation" display_value="Rotation" name="x_trme_augmented_r_ar_workflow" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">11e3ddcb1b0afb40c7011fc58d4bcb6a</sys_ui_section>
+            <sys_updated_by>AMKatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 14:41:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rotation_z</element>
+            <position>2</position>
+            <sys_created_by>AMKatulak</sys_created_by>
+            <sys_created_on>2019-06-19 14:41:12</sys_created_on>
+            <sys_id>61e3110f1b0afb40c7011fc58d4bcb5c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Rotation" display_value="Rotation" name="x_trme_augmented_r_ar_workflow" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">11e3ddcb1b0afb40c7011fc58d4bcb6a</sys_ui_section>
+            <sys_updated_by>AMKatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 14:41:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Rotation</caption>
+            <header>false</header>
+            <name>x_trme_augmented_r_ar_workflow</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>AMKatulak</sys_created_by>
+            <sys_created_on>2019-06-19 14:41:12</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!$/</sys_domain_path>
+            <sys_id>11e3ddcb1b0afb40c7011fc58d4bcb6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Rotation</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+            <sys_update_name>sys_ui_section_11e3ddcb1b0afb40c7011fc58d4bcb6a</sys_update_name>
+            <sys_updated_by>AMKatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 14:41:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

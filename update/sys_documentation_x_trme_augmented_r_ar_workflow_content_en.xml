@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="content" label="Content" language="en" table="x_trme_augmented_r_ar_workflow">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>content</element>
+            <help/>
+            <hint/>
+            <label>Content</label>
+            <language>en</language>
+            <name>x_trme_augmented_r_ar_workflow</name>
+            <plural>Contents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>AMKatulak</sys_created_by>
+            <sys_created_on>2019-06-19 14:16:46</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>6f4e81071b0afb40c7011fc58d4bcb48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Content</sys_name>
+            <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+            <sys_update_name>sys_documentation_x_trme_augmented_r_ar_workflow_content_en</sys_update_name>
+            <sys_updated_by>AMKatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 14:16:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

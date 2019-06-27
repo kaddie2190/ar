@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-06-20 16:36:12</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>HSGill</sys_created_by>
+        <sys_created_on>2019-06-20 16:36:11</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>13c7f6531bca3700ce0711bebd4bcb0d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>b2f38d995480c85bc7fb3450e0e0a1d19d7b3bae136c7fe4ed8151c2880eeca6</sys_name>
+        <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_13c7f6531bca3700ce0711bebd4bcb0d</sys_update_name>
+        <sys_updated_by>HSGill</sys_updated_by>
+        <sys_updated_on>2019-06-20 16:36:12</sys_updated_on>
+        <sys_user_id display_value="Harman Gill">bb337f8bdba03200f5d770d9af961925</sys_user_id>
+        <token>b2f38d995480c85bc7fb3450e0e0a1d19d7b3bae136c7fe4ed8151c2880eeca6</token>
+    </sys_push_notif_app_install>
+</record_update>

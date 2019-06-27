@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_cors_rule">
+    <sys_cors_rule action="INSERT_OR_UPDATE">
+        <delete>false</delete>
+        <domain>https://*github.com</domain>
+        <exposed_headers/>
+        <get>true</get>
+        <max_age>0</max_age>
+        <name>test</name>
+        <patch>false</patch>
+        <post>true</post>
+        <put>false</put>
+        <rest_api>48c0f50b1bcafb40c7011fc58d4bcb13</rest_api>
+        <sys_class_name>sys_cors_rule</sys_class_name>
+        <sys_created_by>amkatulak</sys_created_by>
+        <sys_created_on>2019-06-20 15:09:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c6d326df1b0a7f40c7011fc58d4bcba9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+        <sys_update_name>sys_cors_rule_c6d326df1b0a7f40c7011fc58d4bcba9</sys_update_name>
+        <sys_updated_by>amkatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 15:09:50</sys_updated_on>
+    </sys_cors_rule>
+</record_update>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="4671d3cbdb203200f5d770d9af9619e4" table="x_trme_augmented_r_ar_configuration" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mmd</element>
+            <list_id display_value="x_trme_augmented_r_ar_configuration" element="NULL" name="x_trme_augmented_r_ar_configuration" parent="NULL" relationship="NULL" sys_domain="4671d3cbdb203200f5d770d9af9619e4" view="Default view">0ac46a4b1b423f40c7011fc58d4bcbd4</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>amkatulak</sys_created_by>
+            <sys_created_on>2019-06-19 20:34:36</sys_created_on>
+            <sys_id>8ac46a4b1b423f40c7011fc58d4bcbd5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>amkatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 20:34:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_trme_augmented_r_ar_configuration</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>amkatulak</sys_created_by>
+            <sys_created_on>2019-06-19 20:34:36</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>4671d3cbdb203200f5d770d9af9619e4</sys_domain>
+            <sys_domain_path>!!$/!!!/!!!/</sys_domain_path>
+            <sys_id>0ac46a4b1b423f40c7011fc58d4bcbd4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_trme_augmented_r_ar_configuration</sys_name>
+            <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+            <sys_update_name>sys_ui_list_x_trme_augmented_r_ar_configuration_null_4671d3cbdb203200f5d770d9af9619e4</sys_update_name>
+            <sys_updated_by>amkatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 20:34:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

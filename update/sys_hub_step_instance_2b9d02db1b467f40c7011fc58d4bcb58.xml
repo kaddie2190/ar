@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_step_instance">
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="AR Step">4dfb0ed31b467f40c7011fc58d4bcbb9</action>
+        <cid>b5af003a-0d83-4047-ae40-41eb1a63f550</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <inputs/>
+        <label>Update Record step</label>
+        <order>2</order>
+        <outputs/>
+        <step_type display_value="Update Record">b51f683667003200553fafb49585ef3f</step_type>
+        <sys_class_name>sys_hub_step_instance</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:31:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2b9d02db1b467f40c7011fc58d4bcb58</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Update Record step</sys_name>
+        <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+        <sys_update_name>sys_hub_step_instance_2b9d02db1b467f40c7011fc58d4bcb58</sys_update_name>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:31:52</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=2b9d02db1b467f40c7011fc58d4bcb58"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>2b9d02db1b467f40c7011fc58d4bcb58</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:31:53</sys_created_on>
+        <sys_id>ef9d02db1b467f40c7011fc58d4bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:31:53</sys_updated_on>
+        <value>x_trme_augmented_r_ar_workflow</value>
+        <variable display_value="">3930d57267003200553fafb49585efc5</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=2b9d02db1b467f40c7011fc58d4bcb58"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>2b9d02db1b467f40c7011fc58d4bcb58</id>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:31:52</sys_created_on>
+        <sys_id>6f9d02db1b467f40c7011fc58d4bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:31:52</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_b51f683667003200553fafb49585ef3f</table>
+        <value>{{action.ar_workflow}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>2b9d02db1b467f40c7011fc58d4bcb58</id>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:31:52</sys_created_on>
+        <sys_id>e79d02db1b467f40c7011fc58d4bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:31:52</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_b51f683667003200553fafb49585ef3f</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>update_record_field_values</field>
+        <id>2b9d02db1b467f40c7011fc58d4bcb58</id>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:31:52</sys_created_on>
+        <sys_id>ab9d02db1b467f40c7011fc58d4bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:31:52</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_b51f683667003200553fafb49585ef3f</table>
+        <value>content={{action.content}}^position_x={{action.position_x}}^position_y={{action.position_y}}^position_z={{action.position_z}}^scale_x={{action.scale_x}}^scale_y={{action.scale_y}}^scale_z={{action.scale_z}}^rotation_x={{action.rotation_x}}^rotation_y={{action.rotation_y}}^rotation_z={{action.rotation_z}}^model={{action.model}}^loaded=false</value>
+    </sys_element_mapping>
+</record_update>

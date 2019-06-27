@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="c661c68b1b4efb40c7011fc58d4bcb0b" sys_domain="4671d3cbdb203200f5d770d9af9619e4" table="x_trme_augmented_r_ar_content" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>0</position>
+            <sys_created_by>AMKatulak</sys_created_by>
+            <sys_created_on>2019-06-19 18:00:03</sys_created_on>
+            <sys_id>ce61c68b1b4efb40c7011fc58d4bcbc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_trme_augmented_r_ar_content" sys_domain="4671d3cbdb203200f5d770d9af9619e4" view="Default view">c661c68b1b4efb40c7011fc58d4bcb0b</sys_ui_section>
+            <sys_updated_by>AMKatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 18:00:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order</element>
+            <position>1</position>
+            <sys_created_by>AMKatulak</sys_created_by>
+            <sys_created_on>2019-06-19 18:00:03</sys_created_on>
+            <sys_id>ca61c68b1b4efb40c7011fc58d4bcbc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_trme_augmented_r_ar_content" sys_domain="4671d3cbdb203200f5d770d9af9619e4" view="Default view">c661c68b1b4efb40c7011fc58d4bcb0b</sys_ui_section>
+            <sys_updated_by>AMKatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 18:00:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>content</element>
+            <position>2</position>
+            <sys_created_by>AMKatulak</sys_created_by>
+            <sys_created_on>2019-06-19 18:00:03</sys_created_on>
+            <sys_id>4e61c68b1b4efb40c7011fc58d4bcbc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_trme_augmented_r_ar_content" sys_domain="4671d3cbdb203200f5d770d9af9619e4" view="Default view">c661c68b1b4efb40c7011fc58d4bcb0b</sys_ui_section>
+            <sys_updated_by>AMKatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 18:00:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model</element>
+            <position>3</position>
+            <sys_created_by>AMKatulak</sys_created_by>
+            <sys_created_on>2019-06-19 18:00:03</sys_created_on>
+            <sys_id>ce61c68b1b4efb40c7011fc58d4bcbc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_trme_augmented_r_ar_content" sys_domain="4671d3cbdb203200f5d770d9af9619e4" view="Default view">c661c68b1b4efb40c7011fc58d4bcb0b</sys_ui_section>
+            <sys_updated_by>AMKatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 18:00:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>image</element>
+            <position>4</position>
+            <sys_created_by>AMKatulak</sys_created_by>
+            <sys_created_on>2019-06-19 18:00:03</sys_created_on>
+            <sys_id>4261c68b1b4efb40c7011fc58d4bcbc9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_trme_augmented_r_ar_content" sys_domain="4671d3cbdb203200f5d770d9af9619e4" view="Default view">c661c68b1b4efb40c7011fc58d4bcb0b</sys_ui_section>
+            <sys_updated_by>AMKatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 18:00:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_trme_augmented_r_ar_content</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>AMKatulak</sys_created_by>
+            <sys_created_on>2019-06-19 18:00:03</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>4671d3cbdb203200f5d770d9af9619e4</sys_domain>
+            <sys_domain_path>!!$/!!!/!!!/</sys_domain_path>
+            <sys_id>c661c68b1b4efb40c7011fc58d4bcb0b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_trme_augmented_r_ar_content</sys_name>
+            <sys_overrides caption="NULL" display_value="" name="x_trme_augmented_r_ar_content" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">f5f219471b0afb40c7011fc58d4bcb0c</sys_overrides>
+            <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+            <sys_update_name>sys_ui_section_c661c68b1b4efb40c7011fc58d4bcb0b</sys_update_name>
+            <sys_updated_by>AMKatulak</sys_updated_by>
+            <sys_updated_on>2019-06-19 18:00:03</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

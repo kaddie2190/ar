@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="AR Configuration" max_length="40" name="x_trme_augmented_r_ar_configuration" type="collection">
+        <element label="MMD" max_length="32" name="mmd" reference="cmdb_hardware_product_model" type="reference"/>
+        <index name="index">
+            <element name="mmd"/>
+        </index>
+    </element>
+</database>

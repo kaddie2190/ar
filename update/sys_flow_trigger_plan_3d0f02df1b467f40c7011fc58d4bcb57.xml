@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"3d0f02df1b467f40c7011fc58d4bcb57","name":"plan"}}</plan>
+        <plan_id>089a46171b467f40c7011fc58d4bcb62</plan_id>
+        <snapshot>d4989a171bc63700ce0711bebd4bcbe3</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:38:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3d0f02df1b467f40c7011fc58d4bcb57</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>b90f02df1b467f40c7011fc58d4bcb48</sys_name>
+        <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_3d0f02df1b467f40c7011fc58d4bcb57</sys_update_name>
+        <sys_updated_by>amkatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 14:09:06</sys_updated_on>
+        <trigger display_value="">b90f02df1b467f40c7011fc58d4bcb48</trigger>
+    </sys_flow_trigger_plan>
+</record_update>

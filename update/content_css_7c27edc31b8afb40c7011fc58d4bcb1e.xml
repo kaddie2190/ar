@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="content_css">
+    <content_css action="INSERT_OR_UPDATE">
+        <name>ar_css</name>
+        <style>.ar-container {&#13;
+  position:fixed;&#13;
+  top: 2.5%;&#13;
+  left: 1.5%;&#13;
+  height: 95%;&#13;
+  width:40%;&#13;
+  background-color: rgba(129, 181, 161,0.6);&#13;
+  padding:8px;&#13;
+  z-index: 10;&#13;
+}&#13;
+&#13;
+.button-container {&#13;
+position:absolute;&#13;
+bottom:10px;&#13;
+}&#13;
+&#13;
+img {&#13;
+  width: 100% !important;&#13;
+  height: auto !important;&#13;
+}&#13;
+&#13;
+p {&#13;
+  margin-bottom: 0;&#13;
+  font-size: 1.1em;&#13;
+  font-weight: 500;&#13;
+&#13;
+}&#13;
+&#13;
+li {&#13;
+ font-size:1.0em;&#13;
+ font-weight:400;&#13;
+}&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</style>
+        <sys_class_name>content_css</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-19 16:05:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7c27edc31b8afb40c7011fc58d4bcb1e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ar_css</sys_name>
+        <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+        <sys_update_name>content_css_7c27edc31b8afb40c7011fc58d4bcb1e</sys_update_name>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-19 16:05:30</sys_updated_on>
+        <type>local</type>
+        <url/>
+    </content_css>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="3D Model" max_length="40" name="x_trme_augmented_r_3d_model" type="collection">
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

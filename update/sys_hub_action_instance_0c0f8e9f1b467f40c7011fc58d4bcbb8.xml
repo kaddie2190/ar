@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="AR Flow">089a46171b467f40c7011fc58d4bcb62</flow>
+        <order>4</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:37:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0c0f8e9f1b467f40c7011fc58d4bcbb8</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+        <sys_update_name>sys_hub_action_instance_0c0f8e9f1b467f40c7011fc58d4bcbb8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-06-20 14:19:46</sys_updated_on>
+        <ui_id>917763a9-09d0-424f-a5a7-690cc7407769</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=0c0f8e9f1b467f40c7011fc58d4bcbb8"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0c0f8e9f1b467f40c7011fc58d4bcbb8</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:37:55</sys_created_on>
+        <sys_id>4c0f8e9f1b467f40c7011fc58d4bcbcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:37:55</sys_updated_on>
+        <value>task</value>
+        <variable display_value="">1fd27c8cc3c632002841b63b12d3aeb9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0c0f8e9f1b467f40c7011fc58d4bcbb8</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:38:00</sys_created_on>
+        <sys_id>590fce9f1b467f40c7011fc58d4bcb8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:38:00</sys_updated_on>
+        <value>task</value>
+        <variable display_value="">b5d01916c31332002841b63b12d3aec9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0c0f8e9f1b467f40c7011fc58d4bcbb8</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:37:55</sys_created_on>
+        <sys_id>880f8e9f1b467f40c7011fc58d4bcbcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:37:55</sys_updated_on>
+        <value>work_notes=Technician utilized augmented reality actions in resolution of this task</value>
+        <variable display_value="">e7d270ccc3c632002841b63b12d3ae8b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>0c0f8e9f1b467f40c7011fc58d4bcbb8</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:38:00</sys_created_on>
+        <sys_id>950fce9f1b467f40c7011fc58d4bcb8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:38:00</sys_updated_on>
+        <value>work_notes=Technician utilized augmented reality actions in resolution of this task</value>
+        <variable display_value="">02d01916c31332002841b63b12d3aeee</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=0c0f8e9f1b467f40c7011fc58d4bcbb8"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>0c0f8e9f1b467f40c7011fc58d4bcbb8</id>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:37:55</sys_created_on>
+        <sys_id>440f8e9f1b467f40c7011fc58d4bcbcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:37:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value>{{Created_1.current.task}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>0c0f8e9f1b467f40c7011fc58d4bcbb8</id>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:38:00</sys_created_on>
+        <sys_id>510fce9f1b467f40c7011fc58d4bcb8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:38:00</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value>{{Created_1.current.task}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>0c0f8e9f1b467f40c7011fc58d4bcbb8</id>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:37:55</sys_created_on>
+        <sys_id>800f8e9f1b467f40c7011fc58d4bcbcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:37:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>0c0f8e9f1b467f40c7011fc58d4bcbb8</id>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:38:00</sys_created_on>
+        <sys_id>9d0fce9f1b467f40c7011fc58d4bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:38:00</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>0c0f8e9f1b467f40c7011fc58d4bcbb8</id>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:37:55</sys_created_on>
+        <sys_id>080f8e9f1b467f40c7011fc58d4bcbcb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:37:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_baf174c8c3c232002841b63b12d3aee4</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>0c0f8e9f1b467f40c7011fc58d4bcbb8</id>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:38:00</sys_created_on>
+        <sys_id>150fce9f1b467f40c7011fc58d4bcb8c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:38:00</sys_updated_on>
+        <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

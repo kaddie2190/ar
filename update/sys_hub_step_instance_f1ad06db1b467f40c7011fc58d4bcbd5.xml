@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_step_instance">
+    <sys_hub_step_instance action="INSERT_OR_UPDATE">
+        <action display_value="AR Step">6dad06db1b467f40c7011fc58d4bcb33</action>
+        <cid>c2277c08-7477-4ae9-80ef-a8e330f008cc</cid>
+        <extended_inputs/>
+        <extended_outputs/>
+        <icon/>
+        <inputs/>
+        <inputs/>
+        <label>Wait For Condition step</label>
+        <order>1</order>
+        <outputs/>
+        <step_type display_value="Wait For Condition">4c9234ca0b18030085c083eb37673aaa</step_type>
+        <sys_class_name>sys_hub_step_instance</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:32:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f1ad06db1b467f40c7011fc58d4bcbd5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Wait For Condition step</sys_name>
+        <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+        <sys_update_name>sys_hub_step_instance_f1ad06db1b467f40c7011fc58d4bcbd5</sys_update_name>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:32:01</sys_updated_on>
+    </sys_hub_step_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=f1ad06db1b467f40c7011fc58d4bcbd5"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>f1ad06db1b467f40c7011fc58d4bcbd5</document_key>
+        <order>115</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:32:01</sys_created_on>
+        <sys_id>35ad06db1b467f40c7011fc58d4bcbdd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:32:01</sys_updated_on>
+        <value>loaded=true</value>
+        <variable display_value="">7de2fcca0b18030085c083eb37673aed</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_step_instance</document>
+        <document_key>f1ad06db1b467f40c7011fc58d4bcbd5</document_key>
+        <order>105</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:32:01</sys_created_on>
+        <sys_id>f5ad06db1b467f40c7011fc58d4bcbdd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:32:01</sys_updated_on>
+        <value>x_trme_augmented_r_ar_workflow</value>
+        <variable display_value="">72b2bcca0b18030085c083eb37673a0b</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=f1ad06db1b467f40c7011fc58d4bcbd5"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>f1ad06db1b467f40c7011fc58d4bcbd5</id>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:32:01</sys_created_on>
+        <sys_id>3dad06db1b467f40c7011fc58d4bcbdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:32:01</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_4c9234ca0b18030085c083eb37673aaa</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record</field>
+        <id>f1ad06db1b467f40c7011fc58d4bcbd5</id>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:32:01</sys_created_on>
+        <sys_id>b1ad06db1b467f40c7011fc58d4bcbdd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:32:01</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_4c9234ca0b18030085c083eb37673aaa</table>
+        <value>{{action.ar_workflow}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>f1ad06db1b467f40c7011fc58d4bcbd5</id>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:32:01</sys_created_on>
+        <sys_id>fdad06db1b467f40c7011fc58d4bcbdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:32:01</sys_updated_on>
+        <table>var__m_sys_flow_step_definition_input_4c9234ca0b18030085c083eb37673aaa</table>
+        <value/>
+    </sys_element_mapping>
+</record_update>

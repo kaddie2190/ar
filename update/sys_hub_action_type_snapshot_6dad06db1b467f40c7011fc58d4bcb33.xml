@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_snapshot">
+    <sys_hub_action_type_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>ar_step</internal_name>
+        <label_cache>[{"name":"{{action.content}}","label":"action➛Content","type":"action","ref":"x_trme_augmented_r_ar_content"},{"name":"{{action.position_x}}","label":"action➛Position X","type":"action","ref":""},{"name":"{{action.position_y}}","label":"action➛Position Y","type":"action","ref":""},{"name":"{{action.position_z}}","label":"action➛Position Z","type":"action","ref":""},{"name":"{{action.scale_x}}","label":"action➛Scale X","type":"action","ref":""},{"name":"{{action.scale_y}}","label":"action➛Scale Y","type":"action","ref":""},{"name":"{{action.scale_z}}","label":"action➛Scale Z","type":"action","ref":""},{"name":"{{action.rotation_x}}","label":"action➛Rotation X","type":"action","ref":""},{"name":"{{action.rotation_y}}","label":"action➛Rotation Y","type":"action","ref":""},{"name":"{{action.rotation_z}}","label":"action➛Rotation Z","type":"action","ref":""},{"name":"{{action.ar_workflow}}","label":"action➛AR Workflow","type":"action","ref":"x_trme_augmented_r_ar_workflow"},{"name":"{{action.model}}","label":"action➛Model","type":"action","ref":"x_trme_augmented_r_3d_model"}]</label_cache>
+        <master>true</master>
+        <name>AR Step</name>
+        <outputs/>
+        <parent_action display_value="AR Step">4dfb0ed31b467f40c7011fc58d4bcbb9</parent_action>
+        <sys_class_name>sys_hub_action_type_snapshot</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-20 13:32:00</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6dad06db1b467f40c7011fc58d4bcb33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AR Step</sys_name>
+        <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+        <sys_update_name>sys_hub_action_type_snapshot_6dad06db1b467f40c7011fc58d4bcb33</sys_update_name>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-20 13:32:00</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_snapshot>
+    <sys_variable_value action="delete_multiple" query="document_key=6dad06db1b467f40c7011fc58d4bcb33"/>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>AMKatulak</sys_created_by>
+        <sys_created_on>2019-06-19 16:44:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e13071071bcafb40c7011fc58d4bcba0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_trme_augmented_r_ar_configuration.x_trme_augmented_r.ar_configuration_user</sys_name>
+        <sys_package display_value="Augmented Reality" source="x_trme_augmented_r">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Augmented Reality">2a56858b1bc6fb40c7011fc58d4bcbcc</sys_scope>
+        <sys_security_acl display_value="x_trme_augmented_r_ar_configuration">293071071bcafb40c7011fc58d4bcb9a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e13071071bcafb40c7011fc58d4bcba0</sys_update_name>
+        <sys_updated_by>AMKatulak</sys_updated_by>
+        <sys_updated_on>2019-06-19 16:44:55</sys_updated_on>
+        <sys_user_role display_value="x_trme_augmented_r.ar_configuration_user" name="x_trme_augmented_r.ar_configuration_user">e53071071bcafb40c7011fc58d4bcb8f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
